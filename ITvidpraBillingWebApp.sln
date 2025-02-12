@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{BDC175AC-27DF-43C2-82DE-163A387EC04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingWebApp", "BillingWebApp\BillingWebApp.csproj", "{DF3829FB-DB12-46EA-B9AC-0611D43801E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC175AC-27DF-43C2-82DE-163A387EC04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC175AC-27DF-43C2-82DE-163A387EC04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC175AC-27DF-43C2-82DE-163A387EC04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC175AC-27DF-43C2-82DE-163A387EC04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3829FB-DB12-46EA-B9AC-0611D43801E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3829FB-DB12-46EA-B9AC-0611D43801E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3829FB-DB12-46EA-B9AC-0611D43801E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3829FB-DB12-46EA-B9AC-0611D43801E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27BA6BAF-18F2-4A18-B007-584E52B01C0E}
+	EndGlobalSection
+EndGlobal
