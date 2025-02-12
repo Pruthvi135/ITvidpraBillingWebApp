@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Home\" />
-    <Folder Include="User\" />
+    <Folder Include="UserProfile\" />
   </ItemGroup>
 
 </Project>
