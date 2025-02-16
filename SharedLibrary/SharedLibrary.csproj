@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="itvidpradotnetcoreadvanced">
+      <HintPath>..\..\itvidpradotnetadvanced\itvidpradotnetcoreadvanced\bin\Debug\net6.0\itvidpradotnetcoreadvanced.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

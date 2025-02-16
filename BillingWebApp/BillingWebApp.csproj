@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="SharedLibrary">
+      <HintPath>..\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
